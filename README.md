@@ -111,4 +111,7 @@ To contribute to this project, please create a fork and send a pull request, or 
 
 - [PABLO TORRES] - Initial development
 
+## v3.1.1  
+
+Programación Dinamica y Ejercicios
 
